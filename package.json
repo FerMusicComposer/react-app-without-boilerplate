@@ -1,0 +1,20 @@
+{
+    "name": "to-do-app",
+    "version": "1.0.0",
+    "description": "simple to-do app made from scratch without boilerplate",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/FerMusicComposer/react-app-without-boilerplate.git"
+    },
+    "keywords": [],
+    "author": "Fernando Salamanca",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/FerMusicComposer/react-app-without-boilerplate/issues"
+    },
+    "homepage": "https://github.com/FerMusicComposer/react-app-without-boilerplate#readme"
+}
